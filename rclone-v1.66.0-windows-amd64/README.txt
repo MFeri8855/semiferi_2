@@ -1,6 +1,4 @@
-rclone(1) User Manual
-Nick Craig-Wood
-Mar 10, 2024
+
 
 Rclone syncs your files to cloud storage
 
