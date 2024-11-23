@@ -1,4 +1,4 @@
-
+v1.3
 
 Rclone syncs your files to cloud storage
 
