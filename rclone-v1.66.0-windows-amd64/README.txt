@@ -1,6 +1,5 @@
-v1.5
-new tag4
-
+v1.6
+new tag6
 Rclone syncs your files to cloud storage
 
 -   About rclone
